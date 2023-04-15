@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="batchtestingtest">
+<suite-files>
+	<suite-file path="C:\Users\SUSHMITHA\eclipse-workspace\Maven-Testing\src\test\java\BatchTesting\sanity.xml"/>
+	<suite-file path="C:\Users\SUSHMITHA\eclipse-workspace\Maven-Testing\batching.xml"/>
+</suite-files>
+</suite>
